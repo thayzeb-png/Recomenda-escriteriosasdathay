@@ -52,6 +52,13 @@ body {
   border-radius: 10px;
   flex: 2;
 }
+.imagem-postagem {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+}
 
 .postagem h1 {
   font-size: 30px;
@@ -90,6 +97,7 @@ footer {
   color: #ffffff;
   margin-top: 30px;
 }
+
 
 
 
