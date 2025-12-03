@@ -32,7 +32,7 @@ body {
 }
 
 .imagem-header {
-  height: 200px;
+  height: 400px;
   background-color: #444;
   display: flex;
   align-items: center;
@@ -90,6 +90,7 @@ footer {
   color: #ffffff;
   margin-top: 30px;
 }
+
 
 
 
